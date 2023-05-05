@@ -4,5 +4,7 @@
 git clone https://github.com/caiosvicentino/chatbotpdf
 #dentro da pasta clonada utilize o comando:
 pip install -r requirements.txt
+crie um arquivo .env e adicione:
+OPENAI_API_KEY=colesuaAPIaqui
 #execute o bot com:
 streamlit run app.py
