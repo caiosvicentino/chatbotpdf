@@ -1,4 +1,4 @@
-# chatbotpdf
+# chatbotpdf com Langchain
 #Chatbot AI para ler seu PDF e conversar sobre.
 #Para instalar faça o clone do ropositório:
 git clone https://github.com/caiosvicentino/chatbotpdf
